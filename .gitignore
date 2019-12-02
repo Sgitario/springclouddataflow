@@ -1,3 +1,7 @@
 .DS_Store
 dataflow-data/
+app/target/
+app/.classpath
+app/.project
+app/.settings
 postgres-data/
