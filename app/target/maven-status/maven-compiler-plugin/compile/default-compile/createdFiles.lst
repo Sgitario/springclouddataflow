@@ -1,0 +1,4 @@
+com/api/sample/restful/source/SourceApplication.class
+com/api/sample/restful/processor/ProcessorApplication.class
+com/api/sample/restful/source/controllers/RestService.class
+com/api/sample/restful/sink/SinkApplication.class
